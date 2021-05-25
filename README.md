@@ -11,7 +11,7 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 - 🎓 Currently, I run my own business in IT.
 - 📆 I am 23
 - 🎵 I love EDM & Country music.
-- 🖼️ I have my own portfolio of thingsm like websites that I've done.
+- 🖼️ I have my own portfolio of websites that I've done.
 
 <!--## 🧐 What I'm Up To
 - 🔭 I’m currently working on EXPANDING JAVA KNOWLEDGE 
