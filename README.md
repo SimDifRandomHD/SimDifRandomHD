@@ -1,4 +1,4 @@
-<!--[<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/14.jpg" alt="Banner" title="Banner"/>](https://gfaundead.com) -->
+<!--[<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/" alt="Banner" title="Banner"/>](https://gfaundead.com) -->
 
 ![Website](https://img.shields.io/website?color=%2300ED00&down_color=%23FA4B32&down_message=gfaundead.come&logo=Google%20Chrome&logoColor=%2300ED00&style=for-the-badge&up_color=%2300ED00&up_message=gfaundead.com&url=https%3A%2F%2Fgfaundead.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/SimDifRandomHD?color=%231DA1F2&logo=Twitter&style=for-the-badge)
