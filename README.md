@@ -26,5 +26,5 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 [<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/web.svg" height="40em" align="center" alt="My Website" title="My Website"/>](https://gfaundead.com)
 [<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/Gmail.svg" height="40em" align="center" alt="My Email" title="My Email"/>](https://mail.google.com/mail/?view=cm&fs=1&to=)
 [<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/twitter.svg" height="40em" align="center" alt="Follow Cutest on Twitter" title="Follow Cutest on Twitter"/>](https://twitter.com/)
-[<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/discord.svg" height="40em" align="center" alt="My Discord Server" title="My Discord Server"/>](https://discord.gg/ggAvD9twsE)
+[<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/discord.svg" height="40em" align="center" alt="My Discord Server" title="My Discord Server"/>](https://discord.gg/)
 [<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/twitch.png" height="40em" align="center" alt="My Twitch" title="My Twitch"/>](https://twitch.tv/gfaundead)  
