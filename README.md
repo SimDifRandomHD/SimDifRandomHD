@@ -13,13 +13,13 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 - 🎵 I love EDM & Country music.
 - 🖼️ I have my own portfolio of websites that I've done.
 
-<!--## 🧐 What I'm Up To
+## What I'm Up To
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
 - 🥅 Goals: 
   - 
   - 
-- ⚡ Fun Fact: I love to play video games. -->
+- ⚡ Fun Fact: I love to play video games.
 
 ## 🌐 Socials/Contacts
 Here are some of my social media handles/contacts:<br/>  
