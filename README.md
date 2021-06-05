@@ -14,12 +14,12 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 - 🖼️ I have my own portfolio of websites that I've done.
 
 <!--## 🧐 What I'm Up To
-- 🔭 I’m currently working on EXPANDING JAVA KNOWLEDGE 
-- 🌱 I’m currently learning JAVA 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
 - 🥅 Goals: 
-  - To master basic JAVA and be fluent with it. 
-  - Hopefully take on a coding degree in the future
-- ⚡ Fun fact: I love to draw and game. -->
+  - 
+  - 
+- ⚡ Fun Fact: I love to play video games. -->
 
 ## 🌐 Socials/Contacts
 Here are some of my social media handles/contacts:<br/>  
