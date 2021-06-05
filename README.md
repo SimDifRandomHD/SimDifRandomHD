@@ -18,7 +18,7 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 - 🌱 I’m currently learning **Batch Scripting**.
 - 🥅 Goals: 
   - Finish learning about Batch Scripting and expand my install scripts.
-  - 
+  - Continue to work and expand my business.
 - ⚡ Fun Fact: I love to play video games.
 
 ## 🌐 Socials/Contacts
