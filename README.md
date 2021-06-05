@@ -14,8 +14,8 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 - 🖼️ I have my own portfolio of websites that I've done.
 
 ## What I'm Up To
-- 🔭 I’m currently working on business.
-- 🌱 I’m currently learning **Batch** Scripting.
+- 🔭 I’m currently working on **business**.
+- 🌱 I’m currently learning **Batch Scripting**.
 - 🥅 Goals: 
   - 
   - 
