@@ -17,7 +17,7 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
 - 🥅 Goals: 
-  - 
+  - Expand my business.
   - 
 - ⚡ Fun Fact: I love to play video games.
 
