@@ -1,4 +1,3 @@
-## Welcome to LochMurdoch
 <!--[<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials" alt="Banner" title="Banner"/>](https://gfaundead.com) -->
 
 ![Website](https://img.shields.io/website?color=%2300ED00&down_color=%23FA4B32&down_message=gfaundead.come&logo=Google%20Chrome&logoColor=%2300ED00&style=for-the-badge&up_color=%2300ED00&up_message=gfaundead.com&url=https%3A%2F%2Fgfaundead.com)
@@ -7,7 +6,7 @@
 ![Twitch Status](https://img.shields.io/twitch/status/gfaundead?color=%239146FF&label=GFAUnDead&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
 
 ## 📖 About Me
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochmurdoch&label=Profile%20views&color=0e75b6&style=flat" alt="lochmurdoch" /> </p>
 Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught developer.
 - 🎓 Currently, I run my own business in IT.
 - 📆 I am 23
