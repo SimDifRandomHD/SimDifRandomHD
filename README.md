@@ -6,7 +6,7 @@
 ![Twitch Status](https://img.shields.io/twitch/status/gfaundead?color=%239146FF&label=GFAUnDead&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
 
 ## 📖 About Me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochmurdoch&label=Profile%20views&color=0e75b6&style=flat" alt="pawix25" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochmurdoch&label=Profile%20views&color=0e75b6&style=flat" alt="lochmurdoch" /> </p>
 Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught developer.
 - 🎓 Currently, I run my own business in IT.
 - 📆 I am 23
