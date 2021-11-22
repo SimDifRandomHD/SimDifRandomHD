@@ -13,13 +13,14 @@ Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught develo
 - 🎵 I love EDM & Country music.
 - 🖼️ I have my own portfolio of websites that I've done.
 
-## What I'm Up To
-- 🔭 I’m currently working on **business**.
+## What Am I Up To?
+- 🔭 I’m currently working on **business** & Twitch Streams.
 - 🌱 I’m currently learning **Batch Scripting**.
 - 🥅 Goals: 
   - Finish learning about Batch Scripting and expand my install scripts.
   - Continue to work and expand my business.
-- ⚡ Fun Fact: I love to play video games.
+- ⚡ Fun Fact: I love people to ask me lots of questions so I can participate in interesting conversations about a wide variety of topics not just confined to technology.
+
 
 ## 🌐 Socials/Contacts
 Here are some of my social media handles/contacts:<br/>  
