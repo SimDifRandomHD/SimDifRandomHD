@@ -7,7 +7,7 @@
 
 ## 📖 About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochmurdoch&label=Profile%20views&color=0e75b6&style=flat" alt="lochmurdoch" /> </p>
-Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught developer.
+# Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught developer.
 - 🎓 Currently, I run my own business in IT.
 - 📆 I am 24
 - 🎵 I love EDM & Country music.
