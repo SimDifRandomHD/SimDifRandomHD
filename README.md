@@ -5,8 +5,7 @@
 ![Discord](https://img.shields.io/discord/843394927257976832?color=%237289DA&label=Private&logo=Discord&logoColor=%237289DA&style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/gfaundead?color=%239146FF&label=GFAUnDead&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
 
-## 📖 About Me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochmurdoch&label=Profile%20views&color=0e75b6&style=flat" alt="lochmurdoch" /> </p>
+## 📖 About Me <img src="https://komarev.com/ghpvc/?username=lochmurdoch&label=Profile%20views&color=0e75b6&style=flat" alt="lochmurdoch" />
 Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught developer.
 - 🎓 Currently, I run my own business in IT.
 - 📆 I am 24
